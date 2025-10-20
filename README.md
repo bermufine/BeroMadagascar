@@ -10,7 +10,7 @@
 "https://euc12.playlist.ttvnw.net/v1/playlist/CtAEa4YQKmhhplaYmk5ZGBtO3b6GILhyDck3hvlFePt0geCQryeh1NEhgaW7FCuRoQNFb9XKxm0F5f7ZVWMQnoicYkMyfC0V-YmoQSyMGXnHZ8KcnEdr-xsX_jay9klp1Ql233G21lQ2YAD3XhrUXxOhGOb4IKVNWHEbj5xwHUg2lPcitNvXCKTkaU1SkhmLdw0lOCWRYRbWAlayD4BJebZJStX8e2qA3WPhA2xoKyoHenDi6DIo5jhZR5MMrf64HutB7y2zyOjK14sUobAPYXKiAxC6S0Kx1QmlSv25wOetefjmPT4GWRJqx3fyhkkC6nuBgrmYqG1WZqcItBJlaM9x6xgbIFBHdslIvoAk6o8frAyIxH2i7LO40plYYAvIkXkJrNxl-7l6Pl0ssoLCqKhRJbHRclOGevV8RJldjpsiHftH6m9MRTi_ZWNIICP6ujxM8V5V66PGPmEeEdi2h7Sw0bZDmVsz2NQ0llN0DjJ0gtvzUAvZYNY9fo5_6SQUrJqvLEChGjVceBhlu020FoEwkr_Y_2pupMSNwx7zxnH1KXZkAsGT4AjSvp3SjQj-qBDK0OWl1A-EnAutHGD9scnK60nVKTdDSB47Dijo-7EKI9ibVEJCJVsYipFRV4D2_--INF__x0tSFRBTuJ_EDw4Rj4BezI42GUeUd9ga0bXNy6_8WO4922sN6xL9HEmnKBrISHaNbYHn99X6TbLzoguCVCZLSO1Y96E1OERRZFmsUJ7jqmJwKm0_fxueyU_gF3q-8k0hoVq1NtaBJRUCU-hd8hoM-BaKjg4TfkvGT9_4IAEqCWV1LXdlc3QtMjDCDQ.m3u8"
 ],
 "subtitleCam": "All Channel",
-"numberCam": "All Channel",
+"numberCam": "976",
 "thumbCam": "https://od.lk/s/NDZfODcyNTIzNTFf/mbsMalgasy.webp",
 "titleCam": "MBS TV"
                 }
